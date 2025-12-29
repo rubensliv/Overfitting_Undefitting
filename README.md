@@ -43,7 +43,9 @@ As dependências estão listadas no arquivo `requirements.txt`.
 ## 📂 Estrutura do Projeto
 
 ├── UnderOver.ipynb # Notebook com todo o experimento
+
 ├── requirements.txt # Dependências do projeto
+
 └── README.md # Documentação do projeto
 
 ## ▶️ Como Executar o Projeto
